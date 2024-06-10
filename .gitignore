@@ -1,0 +1,29 @@
+# Fichiers générés par l'environnement de développement
+/node_modules
+/dist
+/.cache
+
+# Fichiers de configuration spécifiques à l'IDE
+/.vscode
+/.idea
+
+# Fichiers de sauvegarde
+*.bak
+*.swp
+*.env
+*.venv
+
+# Fichiers de logs
+/log
+
+# Fichiers de dépendances spécifiques à un langage
+# Remplacez `langage` par le langage de votre choix, par exemple `python`, `java`, `ruby`, etc.
+/langage-dependencies
+
+# Fichiers de build spécifiques à un langage
+# Remplacez `langage` par le langage de votre choix, par exemple `python`, `java`, `ruby`, etc.
+/langage-build
+
+# Fichiers de configuration spécifiques à un langage
+# Remplacez `langage` par le langage de votre choix, par exemple `python`, `java`, `ruby`, etc.
+/langage-config

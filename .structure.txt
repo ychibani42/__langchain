@@ -1,0 +1,30 @@
+langchain/
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── documents/
+│   ├── vecteurs/
+│   └── sql/
+├── notebooks/
+│   └── exemples.ipynb
+├── src/
+│   ├── agents/
+│   │   ├── __init__.py
+│   │   └── mon_agent.py
+│   ├── chains/
+│   │   ├── __init__.py
+│   │   └── chaine_qa.py
+│   ├── chargeurs/
+│   │   ├── __init__.py
+│   │   └── chargeur_pdf.py
+│   ├── prompts/
+│   │   ├── __init__.py
+│   │   └── prompt_qa.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   └── vectorisation.py
+│   └── __init__.py
+├── tests/
+│   ├── __init__.py
+│   └── test_chaine_qa.py
+└── main.py
